@@ -3,6 +3,11 @@ Web design project for MISSA ITC 2023; Case Western Reserve University "Beetles"
 
 [Project Tickets](https://github.com/users/benjaminwp18/projects/1/views/1)
 
+## Running
+- `npm install`
+- `npm run dev`
+- visit http://localhost:5173
+
 ## Planning
 ### Pages
 - Home
