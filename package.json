@@ -1,0 +1,20 @@
+{
+  "name": "missa-beetles-23",
+  "version": "1.0.0",
+  "description": "Web design project for MISSA ITC 2023; Case Western Reserve University \"Beetles\" team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminwp18/missa-beetles-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminwp18/missa-beetles-23/issues"
+  },
+  "homepage": "https://github.com/benjaminwp18/missa-beetles-23#readme"
+}
